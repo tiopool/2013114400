@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _2013114400
 {
-    class Propietario : Carro
+    class Propietario 
     {
         public override string DNI { get; set; }
 
