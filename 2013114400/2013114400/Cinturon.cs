@@ -6,9 +6,24 @@ using System.Threading.Tasks;
 
 namespace _2013114400
 {
-    public class Cinturon : Asiento
+    class Cinturon
     {
 
-      
+        public int Metraje { get; set; }
+        public string NumSerie { get; set; }
+
+        public Cinturon(string _NumSerie, int _Metraje)
+        {
+            NumSerie = _NumSerie;
+            Metraje = _Metraje;
+        }
+
+        public Cinturon()
+        {
+
+        }
+
+
+
     }
 }
