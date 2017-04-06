@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace _2013114400
 {
-    class TipoCarro
+    enum TipoCarro
     {
+        Automovil,Bus
     }
 }

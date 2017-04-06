@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace _2013114400
 {
-    class Asiento
+    class Asiento : Carro
     {
+        public abstract string 
+
     }
 }
