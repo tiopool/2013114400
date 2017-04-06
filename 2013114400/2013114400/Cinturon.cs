@@ -8,7 +8,7 @@ namespace _2013114400
 {
     public class Cinturon : Asiento
     {
-        NumSerie = string 
-        public override string NumSerie { get; set; }
+
+      
     }
 }

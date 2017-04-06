@@ -10,7 +10,6 @@ namespace _2013114400
     {
         Llanta _llanta;
         Asiento _asiento;
-        Cinturon _cinturon;
         Parabrisas _parabrisas;
         Volante _volante;
         public string NumSerieMotor { get; set; }
