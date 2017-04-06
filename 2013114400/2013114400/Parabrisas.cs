@@ -8,5 +8,16 @@ namespace _2013114400
 {
     class Parabrisas
     {
+        public string NumSerie { get; set; }
+
+        public Parabrisas(String _numSerie)
+        {
+            NumSerie = _numSerie;
+        }
+        public Parabrisas()
+        {
+
+        }
     }
+    
 }

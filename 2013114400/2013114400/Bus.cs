@@ -8,6 +8,6 @@ namespace _2013114400
 {
     class Bus : Carro
     {
-        public TipoBus
+        public Bus(int num)
     }
 }

@@ -53,9 +53,9 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Propietario.cs" />
-    <Compile Include="TipoAuto.cs" />
-    <Compile Include="TipoBus.cs" />
-    <Compile Include="TipoCarro.cs" />
+    <Compile Include="numTipoAuto.cs" />
+    <Compile Include="numTipoBus.cs" />
+    <Compile Include="numTipoCarro.cs" />
     <Compile Include="Volante.cs" />
   </ItemGroup>
   <ItemGroup>
