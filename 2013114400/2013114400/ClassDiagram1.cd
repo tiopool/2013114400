@@ -63,18 +63,18 @@
       <FileName>Program.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="_2013114400.Propietario" Collapsed="true">
-    <Position X="9.25" Y="2.5" Width="1.5" />
-    <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAUAAAAgAAAAAEAAAAAAAAAAAAAAAA=</HashCode>
-      <FileName>Propietario.cs</FileName>
-    </TypeIdentifier>
-  </Class>
   <Class Name="_2013114400.Volante" Collapsed="true">
     <Position X="7.5" Y="2.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Volante.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_2013114400.Propietario" Collapsed="true">
+    <Position X="9.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAEAEAAAAAAAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>Propietario.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Enum Name="_2013114400.numTipoAuto" Collapsed="true">

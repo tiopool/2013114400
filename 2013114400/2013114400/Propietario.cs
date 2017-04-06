@@ -6,16 +6,25 @@ using System.Threading.Tasks;
 
 namespace _2013114400
 {
-    class Propietario 
+
+    class Propietario
     {
-        public override string DNI { get; set; }
+        public string Dni { get; set; }
+        public string Nombres { get; set; }
+        public string Apellidos { get; set; }
+        public string LicenciaConducir { get; set; }
 
-        public override string Nombre { get; set; }
+        public Propietario(string _dni, string _nombre, string _apellidos, string _licencia)
+        {
+            Dni = _dni;
+            Nombres = _nombre;
+            Apellidos = _apellidos;
+            LicenciaConducir = _licencia;
+        }
+        public Propietario()
+        {
 
-        public override string Apellidos { get; set; }
-
-        public override string LicenciConducir { get; set; }
-
+        }
 
     }
 }
